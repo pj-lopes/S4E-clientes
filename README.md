@@ -119,9 +119,11 @@ A solução está organizada para separar responsabilidades:
 O sistema conta com um layout limpo.
 
 * **Grid de Listagem:** Exibe dados formatados e feedback visual.
-![alt text](image.png)
+<img width="1357" height="403" alt="image" src="https://github.com/user-attachments/assets/984a7659-9f37-40a0-90ba-fc571f51fad6" />
+
 * **Modal de Cadastro:** Formulário com validações visuais e mensagens de erro claras via Toastr.
-![alt text](image-1.png)
+<img width="608" height="623" alt="image" src="https://github.com/user-attachments/assets/5914821b-f1dc-492f-8b51-0c671aa3cf51" />
+
 
 ---
 
